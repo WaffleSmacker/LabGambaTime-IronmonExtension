@@ -36,10 +36,11 @@ U0JBRR+LCAAAAAAABADtXGtT4zjW/v5W7X/w8OXdrbdFSbJkW1O1tUW4hASabggQyDA1pZsTd+w4EztA
 4) The step above sets up the initial required global variables into your streamer.bot instance.  Now predictions and resolving predictions should work!
 
 Optional
-- If you want to verify that the variables have been set up correctly. Click Variables -> Click Persisted Globals -> Order the fields by 'Last Write' -> Verify that the 3 variables have been set up correctly:<br>
+- If you want to verify that the variables have been set up correctly. Click Variables -> Click Persisted Globals -> Order the fields by 'Last Write' -> Verify that the 3 variables have been set up correctly: <br>
 ![image](https://github.com/WaffleSmacker/LabGambaTime-IronmonExtension/assets/131427794/230409e8-9d4e-4576-b354-747e12c40dc2) <br>
 
-- Change the messages in "[LabGambaTime] Result - Option1 [Use to resolve prediction]" or "[LabGambaTime] Result - Option2 [Use to resolve prediction]" to add more personal flair.
+- Change the messages in "[LabGambaTime] Result - Option1 [Use to resolve prediction]" or "[LabGambaTime] Result - Option2 [Use to resolve prediction]" to add more personal flair. <br>
+![image](https://github.com/WaffleSmacker/LabGambaTime-IronmonExtension/assets/131427794/903ceaf5-8a97-49c5-9920-02eeb8111a2e)
 
 
 ## How to use
