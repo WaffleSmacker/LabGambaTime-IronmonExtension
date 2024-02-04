@@ -44,6 +44,10 @@ Optional
 
 
 ## How to use
+
+Once the extension is turned on it will auto-create predictions and resolve them in the lab.
+If you don't want to do lab predictions anymore, make sure to turn the extension off!
+
 **--Important!--** If you reset the seed before your pokemon faints the gamba will not pay out.  Make sure to accept your fate to have the extension work correctly :)
 
 Once the extension is enabled and streamerbot actions are set up, a prediction should be auto created whenever you create a new seed.
