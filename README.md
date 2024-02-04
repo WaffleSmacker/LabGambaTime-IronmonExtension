@@ -18,6 +18,8 @@ An extension for IronMon Twitch Streamers
 6) Click the "**Install New**" button at the bottom to check for newly installed extensions
    - If you don't see anything in the extensions list, double-check the extension files are installed in the right location. Refer to the [Tracker wiki documentation](https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#install-and-setup-1) if you need additional help
 7) Click on the "**LabGambaTime**" extension button to view the extension and turn it on
+![image](https://github.com/WaffleSmacker/LabGambaTime-IronmonExtension/assets/131427794/796c8ebe-638c-4f24-8f1d-1f759ff25ede)
+
 
 ### Streamer.bot Setup
 
