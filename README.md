@@ -45,7 +45,10 @@ Ex.
 
 Wait until the prediction is over and then proceed to fight the rival!
 
-If you beat the rival, the prediction will auto pay out the believers.
+If you beat the rival, the prediction will auto pay out the believers. <br>
+![image](https://github.com/WaffleSmacker/LabGambaTime-IronmonExtension/assets/131427794/bb354acb-981a-453d-913e-2d4db3a21dab)
 
 
-Likewise if you lose the prediction will auto pay out the doubters.
+Likewise if you lose the prediction will auto pay out the doubters.<br>
+![image](https://github.com/WaffleSmacker/LabGambaTime-IronmonExtension/assets/131427794/8c3b5279-0fca-47d9-aa9e-a9b32bf6ea4e)
+
