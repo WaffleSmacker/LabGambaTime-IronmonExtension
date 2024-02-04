@@ -44,6 +44,8 @@ Optional
 
 
 ## How to use
+**Important** If you reset the seed before your pokemon faints the gamba will not pay out.  Make sure to accept your fate to have the extension work correctly :)
+
 Once the extension is enabled and streamerbot actions are set up, a prediction should be auto created whenever you create a new seed.
 
 Ex.
