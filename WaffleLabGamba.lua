@@ -57,9 +57,8 @@ local function WaffleLabGamba()
 	function self.inOaksLab()
 		local playingFRLG = GameSettings.game == 3 -- FRLG
 		-- https://github.com/besteon/Ironmon-Tracker/blob/d13de0d7480d32897161cb12c692b3a2b5197b08/ironmon_tracker/data/RouteData.lua#L494C4-L494C5
-		local inRockTunnel = TrackerAPI.getMapId() == 5 -- Oak's Lab
-		local defeatedTrainer = Program.hasDefeatedTrainer(IDS.TrainerRockTunnel1)
-		return playingFRLG and inRockTunnel and not defeatedTrainer
+		local inOaksLab = TrackerAPI.getMapId() == 5 -- Oak's Lab
+		return playingFRLG and inOaksLab
 	end
 
 	function self.resetSeedVars()
