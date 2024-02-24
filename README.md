@@ -1,5 +1,5 @@
 # LabGambaTime-IronmonExtension
-An extension for IronMon Twitch Streamers
+An extension for IronMon Twitch Streamers<br>
 Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker)
 
 ## Requirements
