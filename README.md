@@ -1,5 +1,6 @@
 # LabGambaTime-IronmonExtension
 An extension for IronMon Twitch Streamers
+Created by [WaffleSmacker](https://www.twitch.tv/wafflesmacker)
 
 ## Requirements
 - [Ironmon-Tracker v8.4.1](https://github.com/besteon/Ironmon-Tracker) or higher
